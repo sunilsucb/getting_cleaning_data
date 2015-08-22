@@ -1,10 +1,12 @@
-# Getting and Cleaning Data#
+### Getting and Cleaning Data ###
 
-#### This project is about downloading, cleaning and summarizing wearables data from 30 subjects for 6 different activities. ####
+**This project is about downloading, cleaning and summarizing wearables data from 30 subjects for 6 different activities. **
 
 Data was downloaded from [Wearables Data] (https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip)
 
 Data contains training and test data for 21 and 9 subjects respectively. Input Data contains 3 files - Subjects (1 column), Activity (1 col) and Processed Data (561 variables).
+
+** Following processing was done to the data to clean it. **
 
 Step 1: Read the three data files for both training and test datasets
 
