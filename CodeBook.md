@@ -6,7 +6,7 @@ Data was downloaded from [Wearables Data] (https://d396qusza40orc.cloudfront.net
 
 Data contains training and test data for 21 and 9 subjects respectively. Input Data contains 3 files - Subjects (1 column), Activity (1 col) and Processed Data (561 variables).
 
-#### Following processing was done to the data to clean it. ####
+##### Following processing was done to the data to clean it. #####
 
 Step 1: Read the three data files for both training and test datasets
 
