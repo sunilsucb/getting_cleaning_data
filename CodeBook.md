@@ -1,6 +1,6 @@
 ### Getting and Cleaning Data ###
 
-**This project is about downloading, cleaning and summarizing wearables data from 30 subjects for 6 different activities. **
+** This project is about downloading, cleaning and summarizing wearables data from 30 subjects for 6 different activities. **
 
 Data was downloaded from [Wearables Data] (https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip)
 
